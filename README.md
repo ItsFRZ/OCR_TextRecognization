@@ -15,4 +15,4 @@ Synopsis:
 
 Preview Available : 
 
-![ezgif com-video-to-gif (5)](https://user-images.githubusercontent.com/61186175/81105859-3f381c00-8f32-11ea-83d8-c1270a782b62.gif)
+![frz](https://user-images.githubusercontent.com/61186175/81105859-3f381c00-8f32-11ea-83d8-c1270a782b62.gif)
