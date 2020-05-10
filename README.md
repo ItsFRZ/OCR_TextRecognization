@@ -1,7 +1,6 @@
 # OCR_TextRecognization
 Text Recognization Module Using ML Kit
 
-https://img.shields.io/github/license/ItsFRZ/OCR_TextRecognization?logo=FRZ
 
 Firebase Text Recognization Module From Image
 You can use firebase MLKit beta version as a free trial
